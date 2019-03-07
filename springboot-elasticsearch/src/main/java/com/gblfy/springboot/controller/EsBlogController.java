@@ -1,7 +1,7 @@
 package com.gblfy.springboot.controller;
 
-import com.gblfy.domain.EsBlog;
-import com.gblfy.repository.EsBlogRepository;
+import com.gblfy.springboot.domain.EsBlog;
+import com.gblfy.springboot.repository.EsBlogRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
