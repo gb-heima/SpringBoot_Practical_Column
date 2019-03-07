@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/springboot-springmvc-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-validate/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-spring-data-jpa/pom.xml" />
       </list>
     </option>
   </component>
