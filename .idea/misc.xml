@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/springboot-static-resource1/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-static-resource2/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-fileuload/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-view-jsp/pom.xml" />
       </list>
     </option>
   </component>
