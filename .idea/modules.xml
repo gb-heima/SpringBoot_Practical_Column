@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot_Practical_Column.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot_Practical_Column.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-filter/springboot-filter.iml" filepath="$PROJECT_DIR$/springboot-filter/springboot-filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloword/springboot-helloword.iml" filepath="$PROJECT_DIR$/springboot-helloword/springboot-helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-servlet/springboot-servlet.iml" filepath="$PROJECT_DIR$/springboot-servlet/springboot-servlet.iml" />
     </modules>

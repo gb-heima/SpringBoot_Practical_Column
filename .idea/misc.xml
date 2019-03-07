@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-helloword/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-filter/pom.xml" />
       </list>
     </option>
   </component>
