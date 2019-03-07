@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-springmvc-mybatis/springboot-springmvc-mybatis.iml" filepath="$PROJECT_DIR$/springboot-springmvc-mybatis/springboot-springmvc-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-static-resource1/springboot-static-resource1.iml" filepath="$PROJECT_DIR$/springboot-static-resource1/springboot-static-resource1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-static-resource2/springboot-static-resource2.iml" filepath="$PROJECT_DIR$/springboot-static-resource2/springboot-static-resource2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-validate/springboot-validate.iml" filepath="$PROJECT_DIR$/springboot-validate/springboot-validate.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-view-jsp/springboot-view-jsp.iml" filepath="$PROJECT_DIR$/springboot-view-jsp/springboot-view-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-view-thymeleaf/springboot-view-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-view-thymeleaf/springboot-view-thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-view-thymeleaf-02/springboot-view-thymeleaf-02.iml" filepath="$PROJECT_DIR$/springboot-view-thymeleaf-02/springboot-view-thymeleaf-02.iml" />

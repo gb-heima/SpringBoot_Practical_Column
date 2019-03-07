@@ -14,6 +14,7 @@
         <module name="springboot-springmvc-mybatis" />
         <module name="springboot-static-resource1" />
         <module name="springboot-static-resource2" />
+        <module name="springboot-validate" />
         <module name="springboot-view-jsp" />
         <module name="springboot-view-thymeleaf" />
         <module name="springboot-view-thymeleaf-02" />
@@ -28,6 +29,7 @@
       <module name="springboot-springmvc-mybatis" target="1.8" />
       <module name="springboot-static-resource1" target="1.8" />
       <module name="springboot-static-resource2" target="1.8" />
+      <module name="springboot-validate" target="1.8" />
       <module name="springboot-view-jsp" target="1.8" />
       <module name="springboot-view-thymeleaf" target="1.8" />
       <module name="springboot-view-thymeleaf-02" target="1.8" />
@@ -43,6 +45,7 @@
       <module name="springboot-springmvc-mybatis" options="-parameters" />
       <module name="springboot-static-resource1" options="-parameters" />
       <module name="springboot-static-resource2" options="-parameters" />
+      <module name="springboot-validate" options="-parameters" />
       <module name="springboot-view-jsp" options="-parameters" />
       <module name="springboot-view-thymeleaf" options="-parameters" />
       <module name="springboot-view-thymeleaf-02" options="-parameters" />
