@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-helloword/springboot-helloword.iml" filepath="$PROJECT_DIR$/springboot-helloword/springboot-helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-listener/springboot-listener.iml" filepath="$PROJECT_DIR$/springboot-listener/springboot-listener.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-servlet/springboot-servlet.iml" filepath="$PROJECT_DIR$/springboot-servlet/springboot-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-static-resource1/springboot-static-resource1.iml" filepath="$PROJECT_DIR$/springboot-static-resource1/springboot-static-resource1.iml" />
     </modules>
   </component>
 </project>
