@@ -11,6 +11,7 @@
         <module name="springboot-helloword" />
         <module name="springboot-listener" />
         <module name="springboot-servlet" />
+        <module name="springboot-springmvc-mybatis" />
         <module name="springboot-static-resource1" />
         <module name="springboot-static-resource2" />
         <module name="springboot-view-jsp" />
@@ -24,6 +25,7 @@
       <module name="springboot-helloword" target="1.8" />
       <module name="springboot-listener" target="1.8" />
       <module name="springboot-servlet" target="1.8" />
+      <module name="springboot-springmvc-mybatis" target="1.8" />
       <module name="springboot-static-resource1" target="1.8" />
       <module name="springboot-static-resource2" target="1.8" />
       <module name="springboot-view-jsp" target="1.8" />
@@ -38,6 +40,7 @@
       <module name="springboot-helloword" options="-parameters" />
       <module name="springboot-listener" options="-parameters" />
       <module name="springboot-servlet" options="-parameters" />
+      <module name="springboot-springmvc-mybatis" options="-parameters" />
       <module name="springboot-static-resource1" options="-parameters" />
       <module name="springboot-static-resource2" options="-parameters" />
       <module name="springboot-view-jsp" options="-parameters" />

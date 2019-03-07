@@ -1,0 +1,17 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-spring4-4.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Thymeleaf-用户添加数据页面</title>
+</head>
+<body>
+    <form th:action="@{/user/addUser}" method="post">
+        姓名:<input type="text" name="username"/><br/>
+        口令:<input type="text" name="password"/><br/>
+        年龄:<input type="text" name="age"/><br/>
+        性别:<input type="text" name="sex"/><br/>
+        <input type="submit" value="确认"/><br/>
+    </form>
+</body>
+</html>
