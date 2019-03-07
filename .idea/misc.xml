@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/springboot-view-thymeleaf-02/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-springmvc-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-validate/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-exception/pom.xml" />
       </list>
     </option>
   </component>
