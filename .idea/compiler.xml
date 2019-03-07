@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-filter" />
         <module name="springboot-helloword" />
+        <module name="springboot-listener" />
         <module name="springboot-servlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-filter" target="1.8" />
       <module name="springboot-helloword" target="1.8" />
+      <module name="springboot-listener" target="1.8" />
       <module name="springboot-servlet" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot-filter" options="-parameters" />
       <module name="springboot-helloword" options="-parameters" />
+      <module name="springboot-listener" options="-parameters" />
       <module name="springboot-servlet" options="-parameters" />
     </option>
   </component>
