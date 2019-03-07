@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-static-resource1/springboot-static-resource1.iml" filepath="$PROJECT_DIR$/springboot-static-resource1/springboot-static-resource1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-static-resource2/springboot-static-resource2.iml" filepath="$PROJECT_DIR$/springboot-static-resource2/springboot-static-resource2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-view-jsp/springboot-view-jsp.iml" filepath="$PROJECT_DIR$/springboot-view-jsp/springboot-view-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-view-thymeleaf/springboot-view-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-view-thymeleaf/springboot-view-thymeleaf.iml" />
     </modules>
   </component>
 </project>
