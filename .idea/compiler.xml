@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bootstrap--in-action" />
         <module name="gblfy-star-blog" />
         <module name="mongodb-file-server" />
         <module name="mongodb-file-server (1) (com.gblfy)" />
+        <module name="mongodb-file-server 1" />
         <module name="mongodb-file-server 2" />
         <module name="new-star-blog" />
         <module name="springboot-elasticsearch" />
@@ -30,10 +32,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bootstrap--in-action" target="1.8" />
       <module name="gblfy-new-star-blog" target="1.8" />
       <module name="gblfy-star-blog" target="1.8" />
       <module name="mongodb-file-server" target="1.8" />
       <module name="mongodb-file-server (1) (com.gblfy)" target="1.8" />
+      <module name="mongodb-file-server 1" target="1.8" />
       <module name="mongodb-file-server 2" target="1.8" />
       <module name="new-star-blog" target="1.8" />
       <module name="springboot-elasticsearch" target="1.8" />
@@ -56,10 +60,12 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bootstrap--in-action" options="-parameters" />
       <module name="gblfy-new-star-blog" options="" />
       <module name="gblfy-star-blog" options="-parameters" />
       <module name="mongodb-file-server" options="-parameters" />
       <module name="mongodb-file-server (1) (com.gblfy)" options="-parameters" />
+      <module name="mongodb-file-server 1" options="-parameters" />
       <module name="mongodb-file-server 2" options="-parameters" />
       <module name="springboot-elasticsearch" options="-parameters" />
       <module name="springboot-exception" options="-parameters" />

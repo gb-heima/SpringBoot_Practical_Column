@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot_Practical_Column.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot_Practical_Column.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap-in-action/bootstrap--in-action.iml" filepath="$PROJECT_DIR$/bootstrap-in-action/bootstrap--in-action.iml" />
       <module fileurl="file://$PROJECT_DIR$/gblfy-star-blog/gblfy-star-blog.iml" filepath="$PROJECT_DIR$/gblfy-star-blog/gblfy-star-blog.iml" />
       <module fileurl="file://$PROJECT_DIR$/mongodb-file-server/mongodb-file-server.iml" filepath="$PROJECT_DIR$/mongodb-file-server/mongodb-file-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/mongodb-file-server2/mongodb-file-server (1) (com.gblfy).iml" filepath="$PROJECT_DIR$/mongodb-file-server2/mongodb-file-server (1) (com.gblfy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb-file-server2/mongodb-file-server (1) (com.gblfy).iml" filepath="$PROJECT_DIR$/mongodb-file-server2/mongodb-file-server (1) (com.gblfy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb-file-server2/mongodb-file-server 1.iml" filepath="$PROJECT_DIR$/mongodb-file-server2/mongodb-file-server 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/mongodb-file-server2/mongodb-file-server 2.iml" filepath="$PROJECT_DIR$/mongodb-file-server2/mongodb-file-server 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/new-star-blog/new-star-blog.iml" filepath="$PROJECT_DIR$/new-star-blog/new-star-blog.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" />
