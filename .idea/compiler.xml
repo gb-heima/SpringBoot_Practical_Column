@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mongodb-file-server" />
+        <module name="mongodb-file-server 2" />
         <module name="new-star-blog" />
         <module name="springboot-elasticsearch" />
         <module name="springboot-exception" />
@@ -29,6 +30,7 @@
     <bytecodeTargetLevel>
       <module name="gblfy-new-star-blog" target="1.8" />
       <module name="mongodb-file-server" target="1.8" />
+      <module name="mongodb-file-server 2" target="1.8" />
       <module name="new-star-blog" target="1.8" />
       <module name="springboot-elasticsearch" target="1.8" />
       <module name="springboot-exception" target="1.8" />
@@ -52,6 +54,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="gblfy-new-star-blog" options="" />
       <module name="mongodb-file-server" options="-parameters" />
+      <module name="mongodb-file-server 2" options="-parameters" />
       <module name="springboot-elasticsearch" options="-parameters" />
       <module name="springboot-exception" options="-parameters" />
       <module name="springboot-fileuload" options="-parameters" />
