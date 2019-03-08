@@ -1,7 +1,5 @@
 package com.gblfy.springboot.repository;
 
-import com.gblfy.ApplicationTests;
-import com.gblfy.pojo.Users;
 import com.gblfy.springboot.SpringbootSpringDataJpaApplicationTests;
 import com.gblfy.springboot.pojo.Users;
 import org.junit.Test;
