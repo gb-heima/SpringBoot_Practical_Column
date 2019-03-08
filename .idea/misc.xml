@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/springboot-spring-data-jpa-02/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/new-star-blog/pom.xml" />
+        <option value="$PROJECT_DIR$/mongodb-file-server/pom.xml" />
       </list>
     </option>
   </component>
