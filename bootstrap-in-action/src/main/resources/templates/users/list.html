@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/header:: header}">
+</head>
+<body>
+<!--blog-conten-container 自定义样式-->
+<!--Page Content-->
+<div class="container" blog-conten-container >
+    <h3 th:text="${userModel.title}"></h3>
+    <!--创建用户跳转链接 start-->
+    <div>
+        <a class="btn btn-default" href="/users/form.html" th:href="@{/users/form}">创建用户</a>
+    </div>
+    <!--创建用户跳转链接 end-->
+
+    <!--创建用户表 start-->
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <td>ID</td>
+            <td>Name</td>
+            <td>Email</td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:if="${userModel.userList.size() eq 0}">
+            <td colspan="3">没用用户信息！</td>
+        </tr>
+        <tr th:each="user :${userModel.userList}">
+            <td th:text="${user.id}"></td>
+            <td th:text="${user.email}"></td>
+            <td><a th:href="@{'/users/'+${user.id}}" th:text="${user.name}"></a></td>
+        </tr>
+        </tbody>
+    </table>
+    <!--创建用户表 end-->
+</div><!--container容器end-->
+
+<!--引入底部公共部分-->
+<div th:replace="~{fragments/footer:: footer}"></div>
+</body>
+</html>

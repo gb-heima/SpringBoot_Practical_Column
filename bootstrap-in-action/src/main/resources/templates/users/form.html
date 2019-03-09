@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/header:: header}">
+</head>
+<body>
+<!--blog-conten-container 自定义样式-->
+<!--Page Content-->
+<div class="container" blog-conten-container >
+    <h3 th:text="${userModel.title}"></h3>
+    <form action="/users" th:href="@{/users}" method="post" th:object="${userModel.user}">
+        <input type="hidden" name="id" th:value="*{id}">
+        名称:<br>
+        <input class="form-control" type="text" name="name" th:value="*{name}">
+        邮箱:<br>
+        <input class="form-control" type="text" name="email" th:value="*{email}">
+        <input type="submit" class="btn btn-default" value="提交">
+    </form>
+</div><!--container容器end-->
+<!--引入底部公共部分-->
+<div th:replace="~{fragments/footer:: footer}"></div>
+</body>
+</html>

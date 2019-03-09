@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/header:: header}">
+</head>
+<body>
+<!--blog-conten-container 自定义样式-->
+<!--Page Content-->
+<div class="container" blog-conten-container >
+    <h3 th:text="${userModel.title}">Welcome to waylau.com</h3>
+    <div>
+        <a href="/users">返回主页</a>
+    </div>
+    <div>
+        <P><strong>ID:</strong><span th:text="${userModel.user.id}"></span></P>
+        <P><strong>Email:</strong><span th:text="${userModel.user.email}"></span></P>
+        <P><strong>Name:</strong><span th:text="${userModel.user.name}"></span></P>
+    </div>
+    <div>
+        <a class="btn btn-default" th:href="@{'/users/delete/'+${userModel.user.id}}">删除</a>
+        <a class="btn btn-default" th:href="@{'/users/modify/'+${userModel.user.id}}">修改</a>
+    </div>
+
+</div><!--container容器end-->
+<!--引入底部公共部分-->
+<div th:replace="~{fragments/footer:: footer}"></div>
+</body>
+</html>
